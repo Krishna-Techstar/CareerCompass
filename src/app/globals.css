@@ -1,0 +1,128 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Base colors: Default Complete Dark Black */
+:root {
+  --background: #000000;
+  --foreground: #FFFFFF;
+}
+
+html.dark {
+  --background: #000000;
+  --foreground: #FFFFFF;
+  color-scheme: dark;
+}
+
+html.light {
+  --background: #FAF8F5;
+  --foreground: #121212;
+  color-scheme: light;
+}
+
+html.light body {
+  background-color: #FAF8F5 !important;
+  color: #121212 !important;
+}
+
+html.dark body {
+  background-color: #000000 !important;
+  color: #FFFFFF !important;
+}
+
+/* Neo-Brutalist base classes */
+.btn-brutal {
+  border: 2.5px solid #000000;
+  box-shadow: 4px 4px 0px 0px #000000;
+  transition: all 0.15s ease-in-out;
+}
+
+.dark .btn-brutal {
+  border: 2.5px solid #000000;
+  box-shadow: 4px 4px 0px 0px #FFFFFF;
+}
+
+.btn-brutal:hover {
+  transform: translate(-1px, -1px);
+}
+
+.btn-brutal:active {
+  transform: translate(2px, 2px);
+  box-shadow: 1px 1px 0px 0px #000000;
+}
+
+.card-brutal {
+  border: 2.5px solid #000000;
+  box-shadow: 4px 4px 0px 0px #000000;
+}
+
+.dark .card-brutal-dark {
+  background-color: #121212;
+  border: 2px solid #262626;
+  box-shadow: 5px 5px 0px 0px #000000;
+}
+
+.badge-brutal {
+  border: 2px solid #000000;
+  box-shadow: 2px 2px 0px 0px #000000;
+}
+
+/* Neo-Brutalist Form Controls for Auth & Profile */
+.input-brutal {
+  display: block;
+  width: 100%;
+  border: 2px solid #000000;
+  box-shadow: 3px 3px 0px 0px #000000;
+  background-color: #FFFFFF;
+  color: #000000;
+  border-radius: 0.85rem;
+  padding: 0.75rem 1rem;
+  font-size: 0.875rem;
+  font-weight: 700;
+  transition: all 0.15s ease-in-out;
+}
+
+.input-brutal::placeholder {
+  color: #71717A;
+  font-weight: 500;
+}
+
+.input-brutal:focus,
+.input-brutal:focus-visible {
+  outline: none;
+  box-shadow: 4px 4px 0px 0px #000000;
+  transform: translate(-1px, -1px);
+}
+
+.dark .input-brutal {
+  border: 2px solid #3F3F46;
+  box-shadow: 3px 3px 0px 0px #000000;
+  background-color: #171717;
+  color: #FFFFFF;
+}
+
+.dark .input-brutal::placeholder {
+  color: #A1A1AA;
+  font-weight: 500;
+}
+
+.dark .input-brutal:focus,
+.dark .input-brutal:focus-visible {
+  outline: none;
+  border-color: #D2FD3A;
+  box-shadow: 3px 3px 0px 0px #D2FD3A;
+  transform: translate(-1px, -1px);
+}
+
+/* Explicit option background in select dropdowns across operating systems */
+select.input-brutal option {
+  background-color: #FFFFFF;
+  color: #000000;
+  font-weight: 700;
+}
+
+.dark select.input-brutal option {
+  background-color: #171717;
+  color: #FFFFFF;
+  font-weight: 700;
+}

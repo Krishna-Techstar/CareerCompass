@@ -1,0 +1,1745 @@
+[
+  {
+    "id": "dir_pcm_tech",
+    "name": "Science (PCM): Engineering & Technology Direction",
+    "industry": "Foundational Science & Technology Direction",
+    "description": "Explores analytical problem-solving, computing systems, mechanics, and physical sciences. Recommended Class 11 stream: Physics, Chemistry, Mathematics (PCM).",
+    "vector": {
+      "R": 8,
+      "I": 9,
+      "A": 3,
+      "S": 2,
+      "E": 4,
+      "C": 6,
+      "independent_vs_team": -0.2,
+      "structured_vs_flexible": 0.1,
+      "practical_vs_conceptual": -0.3,
+      "lead_vs_support": 0.2,
+      "stability": 7,
+      "growth": 9,
+      "independence": 7,
+      "creativity": 6,
+      "impact": 6,
+      "recognition": 7,
+      "balance": 6,
+      "learning": 9
+    },
+    "requiredDegrees": [
+      "Class 11-12 Science (PCM)",
+      "Future B.Tech / B.Sc / BCA Foundation"
+    ],
+    "entryPathways": [
+      "Choose Science (PCM) in Class 11",
+      "Build coding and math Olympiad fundamentals",
+      "Explore hands-on robotics and tech projects"
+    ],
+    "entranceExams": [
+      "NTSE",
+      "Olympiads (IMO, NSO)",
+      "Future JEE Main / CETs"
+    ],
+    "challenges": [
+      "Demands rigorous abstract calculus and daily practice",
+      "High competition in national technical exams"
+    ],
+    "relatedCareerIds": [
+      "dir_pcmb_research",
+      "dir_creative_design"
+    ],
+    "segments": [
+      "class_6_8",
+      "class_9_10"
+    ],
+    "isDirection": true
+  },
+  {
+    "id": "dir_pcb_health",
+    "name": "Science (PCB): Medicine & Life Sciences Direction",
+    "industry": "Life Sciences & Healthcare Direction",
+    "description": "Explores biological systems, human physiology, ecology, and compassionate patient care. Recommended Class 11 stream: Physics, Chemistry, Biology (PCB).",
+    "vector": {
+      "R": 4,
+      "I": 9,
+      "A": 2,
+      "S": 9,
+      "E": 3,
+      "C": 6,
+      "independent_vs_team": 0.4,
+      "structured_vs_flexible": -0.5,
+      "practical_vs_conceptual": -0.4,
+      "lead_vs_support": 0.2,
+      "stability": 9,
+      "growth": 7,
+      "independence": 5,
+      "creativity": 4,
+      "impact": 10,
+      "recognition": 8,
+      "balance": 4,
+      "learning": 9
+    },
+    "requiredDegrees": [
+      "Class 11-12 Science (PCB)",
+      "Future MBBS / BDS / B.Sc Biotech"
+    ],
+    "entryPathways": [
+      "Choose Science (PCB) in Class 11",
+      "Strengthen biological botany and zoology concepts",
+      "Participate in science exhibitions and ecology drives"
+    ],
+    "entranceExams": [
+      "NTSE",
+      "Biology Olympiads (NBO)",
+      "Future NEET UG"
+    ],
+    "challenges": [
+      "Extensive syllabus requiring deep memory retention",
+      "Long academic runway before independent practice"
+    ],
+    "relatedCareerIds": [
+      "dir_pcmb_research",
+      "dir_arts_humanities"
+    ],
+    "segments": [
+      "class_6_8",
+      "class_9_10"
+    ],
+    "isDirection": true
+  },
+  {
+    "id": "dir_commerce_finance",
+    "name": "Commerce: Finance, Accounting & Business Direction",
+    "industry": "Commerce & Financial Systems Direction",
+    "description": "Focuses on commercial trade, financial markets, accountancy, banking, and wealth creation. Recommended Class 11 stream: Commerce with or without Mathematics.",
+    "vector": {
+      "R": 1,
+      "I": 5,
+      "A": 2,
+      "S": 3,
+      "E": 8,
+      "C": 9,
+      "independent_vs_team": 0.1,
+      "structured_vs_flexible": -0.7,
+      "practical_vs_conceptual": -0.5,
+      "lead_vs_support": 0.1,
+      "stability": 8,
+      "growth": 9,
+      "independence": 6,
+      "creativity": 3,
+      "impact": 5,
+      "recognition": 7,
+      "balance": 6,
+      "learning": 7
+    },
+    "requiredDegrees": [
+      "Class 11-12 Commerce (Accountancy, Economics)",
+      "Future B.Com / BBA / CA Foundation"
+    ],
+    "entryPathways": [
+      "Choose Commerce in Class 11",
+      "Practice ledger accounting and financial math",
+      "Read financial newspapers and follow company news"
+    ],
+    "entranceExams": [
+      "CUET UG",
+      "CA Foundation",
+      "IPMAT"
+    ],
+    "challenges": [
+      "Requires meticulous accuracy with numbers and balance sheets",
+      "Regulatory compliance protocols must be learned"
+    ],
+    "relatedCareerIds": [
+      "dir_management_enterprise",
+      "dir_pcm_tech"
+    ],
+    "segments": [
+      "class_6_8",
+      "class_9_10"
+    ],
+    "isDirection": true
+  },
+  {
+    "id": "dir_arts_humanities",
+    "name": "Humanities: Law, Social Sciences & Media Direction",
+    "industry": "Humanities, Policy & Media Direction",
+    "description": "Centers on society, constitutional governance, legal systems, history, psychology, and public communication. Recommended Class 11 stream: Humanities / Arts.",
+    "vector": {
+      "R": 1,
+      "I": 7,
+      "A": 6,
+      "S": 8,
+      "E": 6,
+      "C": 4,
+      "independent_vs_team": 0.3,
+      "structured_vs_flexible": 0.4,
+      "practical_vs_conceptual": 0.5,
+      "lead_vs_support": -0.3,
+      "stability": 6,
+      "growth": 7,
+      "independence": 8,
+      "creativity": 7,
+      "impact": 9,
+      "recognition": 7,
+      "balance": 6,
+      "learning": 8
+    },
+    "requiredDegrees": [
+      "Class 11-12 Humanities (Pol Science, History, English)",
+      "Future B.A. / B.A. LL.B / Journalism"
+    ],
+    "entryPathways": [
+      "Choose Humanities in Class 11",
+      "Participate in debating, MUNs, and creative writing",
+      "Follow current affairs and constitutional issues"
+    ],
+    "entranceExams": [
+      "CLAT",
+      "CUET UG (Top Central Universities)"
+    ],
+    "challenges": [
+      "Requires extensive reading, essay synthesis, and critical thinking",
+      "Less linear job placements compared to engineering"
+    ],
+    "relatedCareerIds": [
+      "dir_creative_design",
+      "dir_management_enterprise"
+    ],
+    "segments": [
+      "class_6_8",
+      "class_9_10"
+    ],
+    "isDirection": true
+  },
+  {
+    "id": "dir_creative_design",
+    "name": "Design & Visual Arts: Creative Media & Fine Arts Direction",
+    "industry": "Creative Arts & Design Direction",
+    "description": "Fosters visual aesthetics, digital illustration, animation, storytelling, and industrial design. Open to any Class 11 stream with focus on creative portfolios.",
+    "vector": {
+      "R": 4,
+      "I": 4,
+      "A": 10,
+      "S": 4,
+      "E": 5,
+      "C": 2,
+      "independent_vs_team": -0.3,
+      "structured_vs_flexible": 0.9,
+      "practical_vs_conceptual": -0.2,
+      "lead_vs_support": 0,
+      "stability": 5,
+      "growth": 8,
+      "independence": 9,
+      "creativity": 10,
+      "impact": 6,
+      "recognition": 7,
+      "balance": 6,
+      "learning": 8
+    },
+    "requiredDegrees": [
+      "Class 11-12 Any Stream + Design Portfolio",
+      "Future B.Des / BFA / Animation Degree"
+    ],
+    "entryPathways": [
+      "Build sketchbooks, visual arts, and digital tools portfolio",
+      "Enter school design competitions and digital media challenges"
+    ],
+    "entranceExams": [
+      "UCEED",
+      "NID DAT",
+      "NIFT"
+    ],
+    "challenges": [
+      "Subjective evaluations rather than binary right/wrong answers",
+      "Requires continuous portfolio generation and creative endurance"
+    ],
+    "relatedCareerIds": [
+      "dir_arts_humanities",
+      "dir_pcm_tech"
+    ],
+    "segments": [
+      "class_6_8",
+      "class_9_10"
+    ],
+    "isDirection": true
+  },
+  {
+    "id": "dir_pcmb_research",
+    "name": "Pure Sciences (PCMB): Research & Innovation Direction",
+    "industry": "Scientific Research & Discovery Direction",
+    "description": "For students curious about both physical sciences and living systems, aiming for scientific research and interdisciplinary technologies.",
+    "vector": {
+      "R": 5,
+      "I": 10,
+      "A": 3,
+      "S": 4,
+      "E": 3,
+      "C": 6,
+      "independent_vs_team": -0.4,
+      "structured_vs_flexible": -0.2,
+      "practical_vs_conceptual": 0.7,
+      "lead_vs_support": 0.1,
+      "stability": 7,
+      "growth": 7,
+      "independence": 8,
+      "creativity": 6,
+      "impact": 8,
+      "recognition": 7,
+      "balance": 5,
+      "learning": 10
+    },
+    "requiredDegrees": [
+      "Class 11-12 Science (PCMB)",
+      "Future BS-MS at IISc / IISER / NISER"
+    ],
+    "entryPathways": [
+      "Take PCMB in Class 11",
+      "Perform well in Olympiads and scientific competitions",
+      "Read scientific research magazines"
+    ],
+    "entranceExams": [
+      "IAT (IISER)",
+      "NEST",
+      "JEE Advanced"
+    ],
+    "challenges": [
+      "Demanding double workload of Maths and Biology in 11th-12th",
+      "Academic research demands patience and long publication cycles"
+    ],
+    "relatedCareerIds": [
+      "dir_pcm_tech",
+      "dir_pcb_health"
+    ],
+    "segments": [
+      "class_6_8",
+      "class_9_10"
+    ],
+    "isDirection": true
+  },
+  {
+    "id": "dir_management_enterprise",
+    "name": "Management & Leadership: Business & Public Policy Direction",
+    "industry": "Enterprise & Strategic Leadership Direction",
+    "description": "Focuses on leading teams, scaling business ventures, public administration, and organizational strategy. Compatible with Commerce, Humanities, or Science.",
+    "vector": {
+      "R": 2,
+      "I": 6,
+      "A": 4,
+      "S": 7,
+      "E": 10,
+      "C": 5,
+      "independent_vs_team": 0.8,
+      "structured_vs_flexible": 0.3,
+      "practical_vs_conceptual": -0.2,
+      "lead_vs_support": -0.9,
+      "stability": 6,
+      "growth": 10,
+      "independence": 7,
+      "creativity": 6,
+      "impact": 8,
+      "recognition": 9,
+      "balance": 5,
+      "learning": 8
+    },
+    "requiredDegrees": [
+      "Class 11-12 Any Stream",
+      "Future IPM (IIMs) / BBA / BMS / Law"
+    ],
+    "entryPathways": [
+      "Take school student council and leadership responsibilities",
+      "Build communication, public speaking, and negotiation skills",
+      "Read biographies of founders and leaders"
+    ],
+    "entranceExams": [
+      "IPMAT (IIM Indore/Rohtak)",
+      "CUET (DU BMS/BBA)"
+    ],
+    "challenges": [
+      "Requires high emotional quotient, empathy, and resilience under pressure",
+      "Competitive selection for premier management institutes"
+    ],
+    "relatedCareerIds": [
+      "dir_commerce_finance",
+      "dir_arts_humanities"
+    ],
+    "segments": [
+      "class_6_8",
+      "class_9_10"
+    ],
+    "isDirection": true
+  },
+  {
+    "id": "software_engineer",
+    "name": "Software Engineer / SDE",
+    "industry": "Information Technology & Software",
+    "description": "Designs, codes, and maintains scalable software applications, distributed microservices, and platforms solving complex computational problems.",
+    "vector": {
+      "R": 6,
+      "I": 9,
+      "A": 3,
+      "S": 2,
+      "E": 3,
+      "C": 6,
+      "independent_vs_team": -0.3,
+      "structured_vs_flexible": 0.2,
+      "practical_vs_conceptual": -0.4,
+      "lead_vs_support": 0.3,
+      "stability": 7,
+      "growth": 9,
+      "independence": 8,
+      "creativity": 6,
+      "impact": 6,
+      "recognition": 7,
+      "balance": 6,
+      "learning": 9
+    },
+    "requiredDegrees": [
+      "B.Tech / B.E. in Computer Science, IT, or related engineering branch",
+      "BCA + MCA"
+    ],
+    "entryPathways": [
+      "On-campus placement drives with DSA and coding tests",
+      "Competitive programming platforms (LeetCode, Codeforces) and open-source contributions",
+      "Off-campus tech hackathons and product internships"
+    ],
+    "entranceExams": [
+      "JEE Main",
+      "JEE Advanced",
+      "BITSAT",
+      "State Engineering CETs",
+      "GATE CS"
+    ],
+    "challenges": [
+      "Rapid technology obsolescence requiring continuous after-hours upskilling",
+      "Sedentary desk work causing screen fatigue and physical strain",
+      "High competition for top-tier product firms and occasional layoff cycles"
+    ],
+    "relatedCareerIds": [
+      "data_scientist",
+      "cybersecurity_analyst",
+      "product_manager"
+    ],
+    "segments": [
+      "class_11_12",
+      "undergrad",
+      "postgrad"
+    ],
+    "isDirection": false
+  },
+  {
+    "id": "product_manager",
+    "name": "Product Manager (PM)",
+    "industry": "Technology & Digital Products",
+    "description": "Sits at the intersection of business, engineering, and user experience to define product vision, build roadmaps, and ship high-impact features.",
+    "vector": {
+      "R": 2,
+      "I": 7,
+      "A": 5,
+      "S": 6,
+      "E": 9,
+      "C": 6,
+      "independent_vs_team": 0.8,
+      "structured_vs_flexible": 0.6,
+      "practical_vs_conceptual": 0.2,
+      "lead_vs_support": -0.8,
+      "stability": 6,
+      "growth": 9,
+      "independence": 7,
+      "creativity": 8,
+      "impact": 8,
+      "recognition": 8,
+      "balance": 5,
+      "learning": 8
+    },
+    "requiredDegrees": [
+      "B.Tech / B.E. + MBA from Tier-1 institution",
+      "Undergraduate degree with demonstrated Associate PM experience"
+    ],
+    "entryPathways": [
+      "Associate Product Manager (APM) cohorts at tech startups/unicorns",
+      "Campus recruitment post-MBA (IIMs, ISB, XLRI)",
+      "Internal transition from software engineering, data analysis, or UX design"
+    ],
+    "entranceExams": [
+      "CAT",
+      "XAT",
+      "GMAT"
+    ],
+    "challenges": [
+      "Accountability without formal authority: must convince cross-functional teams without managing them directly",
+      "High cognitive context-switching between analytics, design reviews, and executive politics",
+      "Constant pressure when product metrics fail to hit quarterly targets"
+    ],
+    "relatedCareerIds": [
+      "software_engineer",
+      "ux_designer",
+      "management_consultant"
+    ],
+    "segments": [
+      "class_11_12",
+      "undergrad",
+      "postgrad"
+    ],
+    "isDirection": false
+  },
+  {
+    "id": "data_scientist",
+    "name": "Data Scientist / AI Engineer",
+    "industry": "Artificial Intelligence & Analytics",
+    "description": "Extracts predictive insights from structured and unstructured data using machine learning algorithms, deep learning models, and statistical inference.",
+    "vector": {
+      "R": 4,
+      "I": 10,
+      "A": 3,
+      "S": 2,
+      "E": 4,
+      "C": 7,
+      "independent_vs_team": -0.4,
+      "structured_vs_flexible": 0.3,
+      "practical_vs_conceptual": 0.6,
+      "lead_vs_support": 0.4,
+      "stability": 7,
+      "growth": 9,
+      "independence": 8,
+      "creativity": 6,
+      "impact": 7,
+      "recognition": 7,
+      "balance": 6,
+      "learning": 10
+    },
+    "requiredDegrees": [
+      "B.Tech / M.Tech in CS, Data Science, or AI",
+      "M.Sc. in Statistics / Mathematics / Econometrics"
+    ],
+    "entryPathways": [
+      "Data Analyst / Business Intelligence role transitioning to ML engineer",
+      "Kaggle competitions, GitHub portfolio of predictive models, and research pre-prints",
+      "Specialized AI/ML master's programs with industry research internships"
+    ],
+    "entranceExams": [
+      "GATE CS / Data Science",
+      "JEE Main",
+      "JAM (Joint Admission test for Masters)"
+    ],
+    "challenges": [
+      "A large fraction of time is spent on tedious data cleaning and messy pipeline troubleshooting",
+      "Hype cycle disconnect: stakeholders expecting magical results from incomplete enterprise datasets",
+      "Extremely fast-moving research landscape (GenAI, LLMs, vision transformers)"
+    ],
+    "relatedCareerIds": [
+      "software_engineer",
+      "actuary",
+      "investment_analyst"
+    ],
+    "segments": [
+      "class_11_12",
+      "undergrad",
+      "postgrad"
+    ],
+    "isDirection": false
+  },
+  {
+    "id": "ux_designer",
+    "name": "UI/UX Product Designer",
+    "industry": "Design & Creative Technology",
+    "description": "Crafts intuitive, delightful, and accessible digital user experiences through user research, wireframing, interactive prototyping, and design systems.",
+    "vector": {
+      "R": 3,
+      "I": 6,
+      "A": 10,
+      "S": 6,
+      "E": 5,
+      "C": 4,
+      "independent_vs_team": 0.4,
+      "structured_vs_flexible": 0.7,
+      "practical_vs_conceptual": 0.1,
+      "lead_vs_support": -0.2,
+      "stability": 6,
+      "growth": 8,
+      "independence": 8,
+      "creativity": 10,
+      "impact": 7,
+      "recognition": 7,
+      "balance": 7,
+      "learning": 8
+    },
+    "requiredDegrees": [
+      "B.Des / M.Des from NID, IITs (IDC), or recognized design schools",
+      "Any degree with a compelling design portfolio"
+    ],
+    "entryPathways": [
+      "Portfolio-driven entry with Figma case studies demonstrating end-to-end design thinking",
+      "National Institute of Design / IDC IIT placements",
+      "Internships at design agencies and consumer tech startups"
+    ],
+    "entranceExams": [
+      "UCEED",
+      "CEED",
+      "NID DAT"
+    ],
+    "challenges": [
+      "Subjective design critiques and frequent executive pushback",
+      "Engineers occasionally making design compromises due to delivery deadlines",
+      "Must constantly prove business ROI of aesthetic choices and user empathy"
+    ],
+    "relatedCareerIds": [
+      "product_manager",
+      "architect",
+      "marketing_manager"
+    ],
+    "segments": [
+      "class_11_12",
+      "undergrad",
+      "postgrad"
+    ],
+    "isDirection": false
+  },
+  {
+    "id": "doctor",
+    "name": "Medical Doctor / Physician",
+    "industry": "Healthcare & Clinical Medicine",
+    "description": "Diagnoses illnesses, prescribes treatments, administers patient care, and performs life-saving clinical procedures in hospitals and clinics.",
+    "vector": {
+      "R": 7,
+      "I": 9,
+      "A": 2,
+      "S": 10,
+      "E": 5,
+      "C": 6,
+      "independent_vs_team": 0.3,
+      "structured_vs_flexible": -0.7,
+      "practical_vs_conceptual": -0.7,
+      "lead_vs_support": -0.6,
+      "stability": 9,
+      "growth": 7,
+      "independence": 6,
+      "creativity": 3,
+      "impact": 10,
+      "recognition": 10,
+      "balance": 3,
+      "learning": 9
+    },
+    "requiredDegrees": [
+      "MBBS (5.5 years including mandatory internship)",
+      "MD / MS / DNB specialization (3 years)"
+    ],
+    "entryPathways": [
+      "Cracking NEET UG for government/private medical college seats",
+      "Junior residency during post-graduation followed by senior residency / super-specialization",
+      "Hospital clinical practice or private clinic establishment"
+    ],
+    "entranceExams": [
+      "NEET UG",
+      "NEET PG",
+      "INI-CET"
+    ],
+    "challenges": [
+      "Grueling 5.5 to 10+ year gestation period before achieving respectable financial stability",
+      "High stress, sleep deprivation during 36-hour emergency duties, and emotional trauma",
+      "Risk of violence against doctors in hospital emergency wards in India"
+    ],
+    "relatedCareerIds": [
+      "clinical_psychologist",
+      "biotech_researcher"
+    ],
+    "segments": [
+      "class_11_12",
+      "undergrad",
+      "postgrad"
+    ],
+    "isDirection": false
+  },
+  {
+    "id": "clinical_psychologist",
+    "name": "Clinical Psychologist / Psychotherapist",
+    "industry": "Mental Health & Behavioral Sciences",
+    "description": "Assesses, diagnoses, and treats mental illness, emotional disorders, and behavioral challenges through evidence-based psychotherapy and psychological testing.",
+    "vector": {
+      "R": 1,
+      "I": 8,
+      "A": 4,
+      "S": 10,
+      "E": 4,
+      "C": 4,
+      "independent_vs_team": -0.6,
+      "structured_vs_flexible": 0.3,
+      "practical_vs_conceptual": 0.5,
+      "lead_vs_support": -0.1,
+      "stability": 7,
+      "growth": 7,
+      "independence": 8,
+      "creativity": 5,
+      "impact": 9,
+      "recognition": 6,
+      "balance": 7,
+      "learning": 8
+    },
+    "requiredDegrees": [
+      "B.A. / B.Sc. in Psychology",
+      "M.A. / M.Sc. in Psychology + M.Phil in Clinical Psychology (RCI approved) / Psy.D."
+    ],
+    "entryPathways": [
+      "Clearing RCI-approved M.Phil clinical psychology entrance exams (NIMHANS, CIP)",
+      "Supervised hospital internships in psychiatric wards",
+      "Independent private practice, digital mental health platforms, or university counseling"
+    ],
+    "entranceExams": [
+      "NIMHANS Entrance Exam",
+      "CUET PG",
+      "CIP Ranchi Entrance"
+    ],
+    "challenges": [
+      "Vicarious traumatization and mental fatigue from absorbing patients' deep emotional suffering",
+      "Continuing societal stigma around therapy and mental healthcare in tier-2/3 Indian cities",
+      "RCI licensing hurdles and low initial earnings during early supervised practice"
+    ],
+    "relatedCareerIds": [
+      "doctor",
+      "teacher_educator",
+      "human_resources_director"
+    ],
+    "segments": [
+      "class_11_12",
+      "undergrad",
+      "postgrad"
+    ],
+    "isDirection": false
+  },
+  {
+    "id": "biotech_researcher",
+    "name": "Biotechnology / Bioinformatics Scientist",
+    "industry": "Life Sciences & Research",
+    "description": "Conducts advanced molecular biology, genomics, and bioprocess experiments to engineer new pharmaceuticals, agricultural crops, and diagnostic kits.",
+    "vector": {
+      "R": 6,
+      "I": 10,
+      "A": 2,
+      "S": 4,
+      "E": 3,
+      "C": 6,
+      "independent_vs_team": -0.5,
+      "structured_vs_flexible": -0.4,
+      "practical_vs_conceptual": 0.4,
+      "lead_vs_support": 0.3,
+      "stability": 7,
+      "growth": 7,
+      "independence": 8,
+      "creativity": 6,
+      "impact": 8,
+      "recognition": 7,
+      "balance": 6,
+      "learning": 10
+    },
+    "requiredDegrees": [
+      "B.Tech / B.Sc. in Biotechnology / Biochemistry",
+      "M.Tech / M.Sc. + Ph.D. in Life Sciences or Computational Biology"
+    ],
+    "entryPathways": [
+      "CSIR-NET JRF qualified research fellowship in CSIR/DBT national labs",
+      "R&D scientist roles in biopharma companies (Biocon, Serum Institute, Dr. Reddy's)",
+      "Post-doctoral international research fellowships"
+    ],
+    "entranceExams": [
+      "CSIR UGC NET",
+      "GATE BT",
+      "GAT-B",
+      "IIT JAM"
+    ],
+    "challenges": [
+      "Lengthy Ph.D. timelines (4 to 6 years) with relatively modest stipends in India",
+      "High experimental failure rate where months of wet-lab work can yield null results",
+      "Limited private R&D expenditure in India compared to US/Europe"
+    ],
+    "relatedCareerIds": [
+      "doctor",
+      "data_scientist",
+      "environmental_scientist"
+    ],
+    "segments": [
+      "class_11_12",
+      "undergrad",
+      "postgrad"
+    ],
+    "isDirection": false
+  },
+  {
+    "id": "chartered_accountant",
+    "name": "Chartered Accountant (CA)",
+    "industry": "Finance, Audit & Taxation",
+    "description": "Audits corporate financial statements, advises on complex direct/indirect taxation, ensures regulatory compliance, and guides financial structuring.",
+    "vector": {
+      "R": 2,
+      "I": 7,
+      "A": 1,
+      "S": 4,
+      "E": 8,
+      "C": 10,
+      "independent_vs_team": -0.2,
+      "structured_vs_flexible": -0.9,
+      "practical_vs_conceptual": -0.6,
+      "lead_vs_support": 0.1,
+      "stability": 9,
+      "growth": 8,
+      "independence": 8,
+      "creativity": 2,
+      "impact": 6,
+      "recognition": 9,
+      "balance": 5,
+      "learning": 7
+    },
+    "requiredDegrees": [
+      "ICAI Chartered Accountancy Qualification (Foundation, Intermediate, Final + 2-3 years Articleship)",
+      "B.Com (optional but common)"
+    ],
+    "entryPathways": [
+      "Direct entry or post-12th registration with the Institute of Chartered Accountants of India (ICAI)",
+      "Articleship training at Big 4 (Deloitte, PwC, EY, KPMG) or mid-sized audit firms",
+      "Corporate finance roles or independent CA practice"
+    ],
+    "entranceExams": [
+      "CA Foundation",
+      "CA Intermediate",
+      "CA Final"
+    ],
+    "challenges": [
+      "Notoriously low pass percentage (often single-digit to 15%) causing repeated attempts and mental stress",
+      "Grueling tax audit and filing seasons with 70+ hour work weeks and weekend commitments",
+      "Heavy legal accountability where signing faulty audits carries severe regulatory penalties"
+    ],
+    "relatedCareerIds": [
+      "investment_analyst",
+      "corporate_lawyer",
+      "actuary"
+    ],
+    "segments": [
+      "class_11_12",
+      "undergrad",
+      "postgrad"
+    ],
+    "isDirection": false
+  },
+  {
+    "id": "investment_analyst",
+    "name": "Investment Banker / Equity Analyst",
+    "industry": "Banking & Financial Services",
+    "description": "Evaluates companies, builds financial models, assesses mergers and acquisitions, and recommends stock buy/sell ratings for institutional investors.",
+    "vector": {
+      "R": 2,
+      "I": 8,
+      "A": 2,
+      "S": 3,
+      "E": 9,
+      "C": 8,
+      "independent_vs_team": 0.3,
+      "structured_vs_flexible": -0.5,
+      "practical_vs_conceptual": -0.3,
+      "lead_vs_support": -0.4,
+      "stability": 6,
+      "growth": 10,
+      "independence": 6,
+      "creativity": 3,
+      "impact": 6,
+      "recognition": 9,
+      "balance": 3,
+      "learning": 8
+    },
+    "requiredDegrees": [
+      "B.Tech / B.Com from top-tier colleges + MBA Finance (IIMs/ISB)",
+      "CFA (Chartered Financial Analyst) charterholder"
+    ],
+    "entryPathways": [
+      "Front-office campus placements from IIM A/B/C or top DU colleges (SRCC)",
+      "Boutique equity research firms and wealth management firms",
+      "Clearing CFA Level 1/2 alongside investment banking internships"
+    ],
+    "entranceExams": [
+      "CAT",
+      "CFA Levels 1-3"
+    ],
+    "challenges": [
+      "Notorious 80-90 hour work weeks with weekend work and unpredictable client emergency decks",
+      "Extreme performance pressure where compensation is heavily skewed toward volatile annual bonuses",
+      "High attrition and burnout rate within the first 3 years"
+    ],
+    "relatedCareerIds": [
+      "chartered_accountant",
+      "management_consultant",
+      "actuary"
+    ],
+    "segments": [
+      "class_11_12",
+      "undergrad",
+      "postgrad"
+    ],
+    "isDirection": false
+  },
+  {
+    "id": "entrepreneur",
+    "name": "Startup Founder / Entrepreneur",
+    "industry": "Business & Innovation",
+    "description": "Identifies high-potential market inefficiencies, conceptualizes a solution, recruits a founding team, raises venture capital, and builds a sustainable enterprise.",
+    "vector": {
+      "R": 3,
+      "I": 6,
+      "A": 6,
+      "S": 6,
+      "E": 10,
+      "C": 4,
+      "independent_vs_team": 0.6,
+      "structured_vs_flexible": 1,
+      "practical_vs_conceptual": -0.2,
+      "lead_vs_support": -1,
+      "stability": 2,
+      "growth": 10,
+      "independence": 10,
+      "creativity": 9,
+      "impact": 9,
+      "recognition": 9,
+      "balance": 2,
+      "learning": 9
+    },
+    "requiredDegrees": [
+      "No formal degree strictly required; engineering or business background helpful"
+    ],
+    "entryPathways": [
+      "Bootstrapping a digital or physical product during college",
+      "Incubators and accelerator programs (Y Combinator, Antler, Surge)",
+      "Spin-off venture after working in high-growth startups or corporate innovation"
+    ],
+    "entranceExams": [
+      "None (Market validation is the sole examination)"
+    ],
+    "challenges": [
+      "Over 90% failure rate; constant risk of bankruptcy and zero income during initial years",
+      "Relentless psychological stress, founder loneliness, and responsibility for employees' livelihoods",
+      "Zero boundary between work and personal life"
+    ],
+    "relatedCareerIds": [
+      "product_manager",
+      "management_consultant",
+      "marketing_manager"
+    ],
+    "segments": [
+      "class_11_12",
+      "undergrad",
+      "postgrad"
+    ],
+    "isDirection": false
+  },
+  {
+    "id": "civil_services_officer",
+    "name": "Civil Services Officer (IAS / IPS / IFS)",
+    "industry": "Government & Public Administration",
+    "description": "Administers government districts, maintains law and order, coordinates public welfare policies, and represents Indian diplomatic interests globally.",
+    "vector": {
+      "R": 4,
+      "I": 7,
+      "A": 2,
+      "S": 9,
+      "E": 9,
+      "C": 7,
+      "independent_vs_team": 0.7,
+      "structured_vs_flexible": -0.6,
+      "practical_vs_conceptual": -0.4,
+      "lead_vs_support": -0.9,
+      "stability": 10,
+      "growth": 6,
+      "independence": 5,
+      "creativity": 3,
+      "impact": 10,
+      "recognition": 10,
+      "balance": 4,
+      "learning": 7
+    },
+    "requiredDegrees": [
+      "Any Bachelor's degree from a recognized university"
+    ],
+    "entryPathways": [
+      "Clearing the 3-stage UPSC Civil Services Examination (Prelims, Mains, Personality Test)",
+      "State Public Service Commissions (State PCS examinations)",
+      "Lateral entry into specialized joint-secretary posts (limited)"
+    ],
+    "entranceExams": [
+      "UPSC CSE (Civil Services Exam)",
+      "State PSCs"
+    ],
+    "challenges": [
+      "Extreme exam competition (fewer than 1,000 selected out of ~10 lakh aspirants annually)",
+      "Frequent political interference, bureaucratic inertia, and sudden transfers across remote locations",
+      "Fixed government pay scales that lag far behind private sector executive compensation"
+    ],
+    "relatedCareerIds": [
+      "corporate_lawyer",
+      "social_entrepreneur_ngo",
+      "teacher_educator"
+    ],
+    "segments": [
+      "class_11_12",
+      "undergrad",
+      "postgrad"
+    ],
+    "isDirection": false
+  },
+  {
+    "id": "teacher_educator",
+    "name": "College Professor / Educator",
+    "industry": "Higher Education & Academia",
+    "description": "Teaches undergraduate and postgraduate students, designs curriculum, guides Ph.D. dissertations, and conducts academic peer-reviewed research.",
+    "vector": {
+      "R": 1,
+      "I": 9,
+      "A": 4,
+      "S": 10,
+      "E": 5,
+      "C": 6,
+      "independent_vs_team": 0.2,
+      "structured_vs_flexible": -0.3,
+      "practical_vs_conceptual": 0.7,
+      "lead_vs_support": -0.5,
+      "stability": 9,
+      "growth": 6,
+      "independence": 8,
+      "creativity": 6,
+      "impact": 9,
+      "recognition": 7,
+      "balance": 8,
+      "learning": 10
+    },
+    "requiredDegrees": [
+      "Master's degree in relevant discipline + Ph.D. for university professorship",
+      "UGC NET / CSIR NET qualification"
+    ],
+    "entryPathways": [
+      "Clearing UGC-NET / SET followed by Assistant Professor recruitments",
+      "Completing doctorate with Scopus/SCI journal publications",
+      "Online educational platforms (EdTech masterclasses, YouTube educator channels)"
+    ],
+    "entranceExams": [
+      "UGC NET",
+      "CSIR NET",
+      "State SET"
+    ],
+    "challenges": [
+      "Ad-hoc / guest lecturer exploitation with poor job security before obtaining permanent tenure",
+      "Bureaucracy and slow promotion criteria governed by rigid academic API scorecards",
+      "Demotivated student cohorts and heavy administrative non-teaching duties"
+    ],
+    "relatedCareerIds": [
+      "clinical_psychologist",
+      "biotech_researcher",
+      "journalist"
+    ],
+    "segments": [
+      "class_11_12",
+      "undergrad",
+      "postgrad"
+    ],
+    "isDirection": false
+  },
+  {
+    "id": "journalist",
+    "name": "Investigative Journalist / Media Reporter",
+    "industry": "Media, Publishing & News",
+    "description": "Investigates breaking news events, interviews sources, verifies facts on the ground, and produces analytical articles and video reports for the public.",
+    "vector": {
+      "R": 3,
+      "I": 8,
+      "A": 9,
+      "S": 7,
+      "E": 6,
+      "C": 4,
+      "independent_vs_team": -0.4,
+      "structured_vs_flexible": 0.7,
+      "practical_vs_conceptual": 0.2,
+      "lead_vs_support": -0.3,
+      "stability": 4,
+      "growth": 6,
+      "independence": 9,
+      "creativity": 8,
+      "impact": 9,
+      "recognition": 8,
+      "balance": 4,
+      "learning": 8
+    },
+    "requiredDegrees": [
+      "B.A. / M.A. in Journalism & Mass Communication, English, or Political Science"
+    ],
+    "entryPathways": [
+      "Internships at national newspapers, digital news portals (The Print, Scroll), and wire agencies (PTI, ANI)",
+      "Indian Institute of Mass Communication (IIMC) or ACJ Chennai diploma",
+      "Substack newsletters, independent video journalism, and podcasting"
+    ],
+    "entranceExams": [
+      "IIMC Entrance Exam",
+      "ACJ Entrance Exam",
+      "CUET PG"
+    ],
+    "challenges": [
+      "Low starting salaries in mainstream Indian newsrooms compared to corporate content marketing",
+      "Hostile reporting environments, trolling, and legal threats or defamation suits from influential entities",
+      "24/7 news cycle demanding urgent travel and irregular work hours"
+    ],
+    "relatedCareerIds": [
+      "corporate_lawyer",
+      "marketing_manager",
+      "teacher_educator"
+    ],
+    "segments": [
+      "class_11_12",
+      "undergrad",
+      "postgrad"
+    ],
+    "isDirection": false
+  },
+  {
+    "id": "mechanical_engineer",
+    "name": "Mechanical / Robotics Systems Engineer",
+    "industry": "Manufacturing, Automotive & Robotics",
+    "description": "Designs mechanical components, thermodynamic systems, industrial robots, and automated production machinery using CAD/CAE tools.",
+    "vector": {
+      "R": 10,
+      "I": 7,
+      "A": 2,
+      "S": 2,
+      "E": 3,
+      "C": 6,
+      "independent_vs_team": 0.3,
+      "structured_vs_flexible": -0.6,
+      "practical_vs_conceptual": -0.8,
+      "lead_vs_support": 0.2,
+      "stability": 8,
+      "growth": 7,
+      "independence": 6,
+      "creativity": 5,
+      "impact": 7,
+      "recognition": 6,
+      "balance": 6,
+      "learning": 7
+    },
+    "requiredDegrees": [
+      "B.Tech / B.E. in Mechanical Engineering, Mechatronics, or Production Engineering"
+    ],
+    "entryPathways": [
+      "Core manufacturing campus placements (Tata Motors, Mahindra, L&T, Maruti Suzuki)",
+      "GATE Mechanical for PSU engineer posts (IOCL, ONGC, BHEL, ISRO)",
+      "Specialized CAD/CAM modeling certifications and electric vehicle (EV) startups"
+    ],
+    "entranceExams": [
+      "JEE Main",
+      "JEE Advanced",
+      "GATE ME"
+    ],
+    "challenges": [
+      "Initial campus placement salaries in core mechanical lag behind software/IT counterparts",
+      "Often posted at remote factory shop floors, manufacturing plants, or construction sites",
+      "Physical hazards and high compliance liability in industrial automation"
+    ],
+    "relatedCareerIds": [
+      "architect",
+      "software_engineer",
+      "commercial_pilot"
+    ],
+    "segments": [
+      "class_11_12",
+      "undergrad",
+      "postgrad"
+    ],
+    "isDirection": false
+  },
+  {
+    "id": "corporate_lawyer",
+    "name": "Corporate Lawyer / Legal Counsel",
+    "industry": "Legal Services & Corporate Law",
+    "description": "Structures business transactions, conducts legal due diligence, drafts commercial contracts, and ensures compliance with statutory laws.",
+    "vector": {
+      "R": 1,
+      "I": 8,
+      "A": 3,
+      "S": 4,
+      "E": 9,
+      "C": 9,
+      "independent_vs_team": -0.2,
+      "structured_vs_flexible": -0.8,
+      "practical_vs_conceptual": 0.3,
+      "lead_vs_support": -0.5,
+      "stability": 8,
+      "growth": 9,
+      "independence": 8,
+      "creativity": 4,
+      "impact": 6,
+      "recognition": 9,
+      "balance": 4,
+      "learning": 8
+    },
+    "requiredDegrees": [
+      "5-year integrated B.A. LL.B / B.B.A. LL.B or 3-year LL.B post-graduation",
+      "Bar Council of India (BCI) enrollment"
+    ],
+    "entryPathways": [
+      "Campus placements from National Law Universities (NLUs) into Tier-1 law firms (AZB, CAM, SAM, Khaitan)",
+      "In-house legal teams at tech conglomerates and financial institutions",
+      "Apprenticeship under senior high court / supreme court advocates"
+    ],
+    "entranceExams": [
+      "CLAT (Common Law Admission Test)",
+      "AILET",
+      "All India Bar Examination (AIBE)"
+    ],
+    "challenges": [
+      "Extreme billing-hour expectations (70-80 hours/week) during major M&A transactions",
+      "Immense volume of dense contractual reading, redlining, and meticulous proofreading",
+      "Heavy pedigree bias favoring top NLU graduates for premium corporate law firms"
+    ],
+    "relatedCareerIds": [
+      "chartered_accountant",
+      "civil_services_officer",
+      "investment_analyst"
+    ],
+    "segments": [
+      "class_11_12",
+      "undergrad",
+      "postgrad"
+    ],
+    "isDirection": false
+  },
+  {
+    "id": "marketing_manager",
+    "name": "Marketing Manager / Brand Strategist",
+    "industry": "FMCG, Consumer Tech & E-commerce",
+    "description": "Builds customer acquisition strategies, oversees creative brand campaigns, manages multi-crore advertising budgets, and analyzes market share growth.",
+    "vector": {
+      "R": 1,
+      "I": 6,
+      "A": 8,
+      "S": 7,
+      "E": 10,
+      "C": 5,
+      "independent_vs_team": 0.7,
+      "structured_vs_flexible": 0.6,
+      "practical_vs_conceptual": -0.2,
+      "lead_vs_support": -0.7,
+      "stability": 6,
+      "growth": 9,
+      "independence": 7,
+      "creativity": 9,
+      "impact": 7,
+      "recognition": 8,
+      "balance": 6,
+      "learning": 7
+    },
+    "requiredDegrees": [
+      "BBA / B.Com / B.Tech + MBA in Marketing (Tier-1 or Tier-2 B-School)"
+    ],
+    "entryPathways": [
+      "Management Trainee programs at top FMCG companies (HUL, ITC, Nestlé) or consumer tech apps (Zomato, Swiggy)",
+      "Growth marketing specialist roles in D2C startups",
+      "Performance marketing and creative advertising agency experience"
+    ],
+    "entranceExams": [
+      "CAT",
+      "XAT",
+      "SNAP",
+      "NMAT"
+    ],
+    "challenges": [
+      "Ruthless accountability to daily CAC (Customer Acquisition Cost) and ROAS (Return on Ad Spend) metrics",
+      "Fickle consumer attention spans demanding non-stop creative reinvention",
+      "Frequent misalignment between brand creative aspirations and finance quarterly budgets"
+    ],
+    "relatedCareerIds": [
+      "product_manager",
+      "ux_designer",
+      "journalist"
+    ],
+    "segments": [
+      "class_11_12",
+      "undergrad",
+      "postgrad"
+    ],
+    "isDirection": false
+  },
+  {
+    "id": "management_consultant",
+    "name": "Management / Strategy Consultant",
+    "industry": "Management Consulting & Advisory",
+    "description": "Advises CEOs and board members on market entry, operational restructuring, cost rationalization, and digital transformations.",
+    "vector": {
+      "R": 2,
+      "I": 9,
+      "A": 3,
+      "S": 6,
+      "E": 10,
+      "C": 7,
+      "independent_vs_team": 0.7,
+      "structured_vs_flexible": 0.4,
+      "practical_vs_conceptual": 0.5,
+      "lead_vs_support": -0.7,
+      "stability": 7,
+      "growth": 10,
+      "independence": 6,
+      "creativity": 6,
+      "impact": 8,
+      "recognition": 9,
+      "balance": 3,
+      "learning": 9
+    },
+    "requiredDegrees": [
+      "Undergraduate degree from IIT/BITS/SRCC + MBA from IIM A/B/C or ISB"
+    ],
+    "entryPathways": [
+      "Direct campus hire into MBB (McKinsey, BCG, Bain) or Tier-2 strategy houses (Kearney, Oliver Wyman)",
+      "Big 4 consulting arms (Strategy&, Parthenon, Monitor Deloitte)",
+      "Lateral hire with deep domain knowledge in logistics, healthcare, or energy"
+    ],
+    "entranceExams": [
+      "CAT",
+      "GMAT"
+    ],
+    "challenges": [
+      "Non-stop domestic and international travel living out of hotel rooms Monday through Thursday",
+      "High burnout rate and 'up-or-out' promotion policy within 24 months",
+      "Frustration when clients pay millions for recommendations but fail to execute them"
+    ],
+    "relatedCareerIds": [
+      "product_manager",
+      "investment_analyst",
+      "entrepreneur"
+    ],
+    "segments": [
+      "class_11_12",
+      "undergrad",
+      "postgrad"
+    ],
+    "isDirection": false
+  },
+  {
+    "id": "cybersecurity_analyst",
+    "name": "Cybersecurity Analyst / Ethical Hacker",
+    "industry": "Information Security & Defense",
+    "description": "Safeguards enterprise computer networks, audits zero-day vulnerabilities, performs simulated red-team attacks, and mitigates ransomware breaches.",
+    "vector": {
+      "R": 6,
+      "I": 10,
+      "A": 2,
+      "S": 2,
+      "E": 3,
+      "C": 8,
+      "independent_vs_team": -0.6,
+      "structured_vs_flexible": -0.4,
+      "practical_vs_conceptual": -0.6,
+      "lead_vs_support": 0.3,
+      "stability": 8,
+      "growth": 9,
+      "independence": 8,
+      "creativity": 5,
+      "impact": 8,
+      "recognition": 7,
+      "balance": 6,
+      "learning": 9
+    },
+    "requiredDegrees": [
+      "B.Tech / B.E. in CS / IT / Cyber Security or BCA/MCA"
+    ],
+    "entryPathways": [
+      "Industry certifications: CEH, CompTIA Security+, OSCP (Offensive Security Certified Professional)",
+      "Bug bounty platforms (HackerOne, Bugcrowd) and CTF (Capture the Flag) ranking",
+      "SOC (Security Operations Center) monitoring roles transitioning to penetration testing"
+    ],
+    "entranceExams": [
+      "GATE CS",
+      "JEE Main"
+    ],
+    "challenges": [
+      "On-call emergency escalation when breaches occur at 3 AM on weekends",
+      "Perpetual cat-and-mouse game against evolving state-sponsored and criminal hacker syndicates",
+      "Strict compliance overhead and documentation of audit trails"
+    ],
+    "relatedCareerIds": [
+      "software_engineer",
+      "data_scientist"
+    ],
+    "segments": [
+      "class_11_12",
+      "undergrad",
+      "postgrad"
+    ],
+    "isDirection": false
+  },
+  {
+    "id": "environmental_scientist",
+    "name": "Environmental Scientist / Sustainability Lead",
+    "industry": "Renewable Energy & Climate Tech",
+    "description": "Analyzes ecological data, designs carbon offset methodologies, guides corporate ESG compliance, and advises on climate resilience programs.",
+    "vector": {
+      "R": 6,
+      "I": 9,
+      "A": 3,
+      "S": 8,
+      "E": 4,
+      "C": 6,
+      "independent_vs_team": -0.2,
+      "structured_vs_flexible": 0.1,
+      "practical_vs_conceptual": 0.4,
+      "lead_vs_support": -0.1,
+      "stability": 7,
+      "growth": 8,
+      "independence": 7,
+      "creativity": 5,
+      "impact": 10,
+      "recognition": 6,
+      "balance": 7,
+      "learning": 8
+    },
+    "requiredDegrees": [
+      "B.Sc. / B.Tech in Environmental Science / Chemical / Civil Engineering",
+      "M.Sc. / M.Tech in Sustainability Management or Ecology"
+    ],
+    "entryPathways": [
+      "Corporate ESG (Environmental, Social & Governance) auditing teams in multinational firms",
+      "Renewable energy developers (Solar, Wind, Green Hydrogen)",
+      "United Nations (UNEP, UNDP), TERI, and international climate think-tanks"
+    ],
+    "entranceExams": [
+      "UGC NET Environmental Sciences",
+      "GATE Environmental Science & Engineering (ES)"
+    ],
+    "challenges": [
+      "Corporate 'greenwashing' where sustainability suggestions are treated as PR checklists",
+      "Slower initial salary growth compared to mainstream tech and finance tracks in India",
+      "Field inspections in physically demanding remote terrains"
+    ],
+    "relatedCareerIds": [
+      "biotech_researcher",
+      "civil_services_officer",
+      "social_entrepreneur_ngo"
+    ],
+    "segments": [
+      "class_11_12",
+      "undergrad",
+      "postgrad"
+    ],
+    "isDirection": false
+  },
+  {
+    "id": "commercial_pilot",
+    "name": "Commercial Airline Pilot",
+    "industry": "Aviation & Aerospace",
+    "description": "Operates passenger and cargo aircraft safely across domestic and international flight corridors, managing navigation, weather telemetry, and cockpit crews.",
+    "vector": {
+      "R": 10,
+      "I": 6,
+      "A": 1,
+      "S": 4,
+      "E": 5,
+      "C": 9,
+      "independent_vs_team": 0.5,
+      "structured_vs_flexible": -1,
+      "practical_vs_conceptual": -0.9,
+      "lead_vs_support": -0.8,
+      "stability": 8,
+      "growth": 6,
+      "independence": 6,
+      "creativity": 1,
+      "impact": 6,
+      "recognition": 9,
+      "balance": 4,
+      "learning": 6
+    },
+    "requiredDegrees": [
+      "10+2 with Physics and Mathematics",
+      "Commercial Pilot License (CPL) from DGCA-approved flying school"
+    ],
+    "entryPathways": [
+      "Cadet Pilot Programs with major Indian airlines (IndiGo, Air India)",
+      "200 hours flight training at flying club + DGCA theoretical examinations",
+      "Type rating on Airbus A320 or Boeing 737 platforms"
+    ],
+    "entranceExams": [
+      "DGCA CPL Exams",
+      "Airline Cadet Selection assessments (WOMBAT, psychometrics)"
+    ],
+    "challenges": [
+      "Massive upfront training cost (₹50 Lakh to ₹1 Crore) before earning a single rupee",
+      "Rigid biannual medical exams where minor eyesight or heart anomalies can terminate one's career",
+      "Severe jet lag, circadian disruption, and long layovers away from home"
+    ],
+    "relatedCareerIds": [
+      "mechanical_engineer"
+    ],
+    "segments": [
+      "class_11_12",
+      "undergrad",
+      "postgrad"
+    ],
+    "isDirection": false
+  },
+  {
+    "id": "architect",
+    "name": "Architect & Spatial Designer",
+    "industry": "Architecture, Real Estate & Urban Planning",
+    "description": "Conceives architectural plans, structural aesthetics, and functional interior spaces, coordinating engineering schematics and municipal approvals.",
+    "vector": {
+      "R": 7,
+      "I": 6,
+      "A": 10,
+      "S": 4,
+      "E": 5,
+      "C": 6,
+      "independent_vs_team": 0.3,
+      "structured_vs_flexible": 0.3,
+      "practical_vs_conceptual": -0.3,
+      "lead_vs_support": -0.4,
+      "stability": 7,
+      "growth": 7,
+      "independence": 8,
+      "creativity": 10,
+      "impact": 7,
+      "recognition": 8,
+      "balance": 6,
+      "learning": 7
+    },
+    "requiredDegrees": [
+      "B.Arch (5-year Council of Architecture approved program)"
+    ],
+    "entryPathways": [
+      "NATA / JEE Main Paper 2 rank for admission to SPA (School of Planning & Architecture), CEPT, or NITs",
+      "Apprenticeship at prominent architectural design studios",
+      "Establishing an independent architectural consultancy firm"
+    ],
+    "entranceExams": [
+      "NATA (National Aptitude Test in Architecture)",
+      "JEE Main Paper 2"
+    ],
+    "challenges": [
+      "Very low starting stipends for junior architects during the first 3 years in India",
+      "Frustrating compromises caused by real-estate developers cutting costs or client aesthetic interference",
+      "Complex municipal sanctioning, bribery, and local zoning bylaws"
+    ],
+    "relatedCareerIds": [
+      "ux_designer",
+      "mechanical_engineer"
+    ],
+    "segments": [
+      "class_11_12",
+      "undergrad",
+      "postgrad"
+    ],
+    "isDirection": false
+  },
+  {
+    "id": "supply_chain_manager",
+    "name": "Supply Chain & Operations Manager",
+    "industry": "E-Commerce, Logistics & Retail",
+    "description": "Optimizes end-to-end procurement, warehouse inventory, order fulfillment, and last-mile delivery networks to ensure speed and cost efficiency.",
+    "vector": {
+      "R": 5,
+      "I": 6,
+      "A": 1,
+      "S": 4,
+      "E": 8,
+      "C": 9,
+      "independent_vs_team": 0.6,
+      "structured_vs_flexible": -0.8,
+      "practical_vs_conceptual": -0.7,
+      "lead_vs_support": -0.6,
+      "stability": 8,
+      "growth": 8,
+      "independence": 5,
+      "creativity": 3,
+      "impact": 7,
+      "recognition": 6,
+      "balance": 5,
+      "learning": 7
+    },
+    "requiredDegrees": [
+      "B.Tech / B.Com + MBA in Operations / Supply Chain Management (NITIE / IIMs)"
+    ],
+    "entryPathways": [
+      "Operations management trainee roles at e-commerce giants (Amazon, Flipkart, Delhivery)",
+      "Manufacturing plant logistics at FMCG corporations",
+      "Supply chain planning software consulting (SAP, Blue Yonder)"
+    ],
+    "entranceExams": [
+      "CAT",
+      "GATE"
+    ],
+    "challenges": [
+      "High-pressure environment during festive e-commerce sales (Big Billion Days) with 24/7 escalation shifts",
+      "Warehouse facilities are frequently located in industrial outskirts far from city centers",
+      "Managing frontline ground laborers, union negotiations, and transportation strikes"
+    ],
+    "relatedCareerIds": [
+      "mechanical_engineer",
+      "management_consultant"
+    ],
+    "segments": [
+      "class_11_12",
+      "undergrad",
+      "postgrad"
+    ],
+    "isDirection": false
+  },
+  {
+    "id": "human_resources_director",
+    "name": "HR Business Partner / Talent Director",
+    "industry": "Human Resources & Organizational Behavior",
+    "description": "Aligns human capital with business strategy, oversees leadership hiring, drives organizational culture, and manages employee relations and executive rewards.",
+    "vector": {
+      "R": 1,
+      "I": 5,
+      "A": 4,
+      "S": 10,
+      "E": 8,
+      "C": 7,
+      "independent_vs_team": 0.8,
+      "structured_vs_flexible": -0.4,
+      "practical_vs_conceptual": 0.2,
+      "lead_vs_support": -0.4,
+      "stability": 8,
+      "growth": 7,
+      "independence": 6,
+      "creativity": 5,
+      "impact": 8,
+      "recognition": 7,
+      "balance": 7,
+      "learning": 7
+    },
+    "requiredDegrees": [
+      "MBA / PGDM in Human Resources from premier institutes (XLRI, TISS, MDI, SCMHRD)"
+    ],
+    "entryPathways": [
+      "Campus placement through premier HR programs into corporate HR leadership cohorts",
+      "Specialized executive search and headhunting boutique firms",
+      "People operations roles in tech startups"
+    ],
+    "entranceExams": [
+      "XAT",
+      "CAT",
+      "CUET PG"
+    ],
+    "challenges": [
+      "Often positioned as the bearer of bad news (managing layoffs, performance warnings, and salary cuts)",
+      "Balancing employee welfare empathy with ruthless executive board financial mandates",
+      "Struggle to earn credibility as a revenue-generating partner rather than a bureaucratic cost center"
+    ],
+    "relatedCareerIds": [
+      "clinical_psychologist",
+      "management_consultant",
+      "marketing_manager"
+    ],
+    "segments": [
+      "class_11_12",
+      "undergrad",
+      "postgrad"
+    ],
+    "isDirection": false
+  },
+  {
+    "id": "social_entrepreneur_ngo",
+    "name": "Development Sector / NGO Program Director",
+    "industry": "Social Impact & Non-Profit Organizations",
+    "description": "Directs large-scale humanitarian programs, manages philanthropic grants, executes rural development initiatives, and measures poverty eradication impact.",
+    "vector": {
+      "R": 3,
+      "I": 7,
+      "A": 4,
+      "S": 10,
+      "E": 8,
+      "C": 6,
+      "independent_vs_team": 0.6,
+      "structured_vs_flexible": 0.3,
+      "practical_vs_conceptual": -0.1,
+      "lead_vs_support": -0.8,
+      "stability": 5,
+      "growth": 6,
+      "independence": 8,
+      "creativity": 6,
+      "impact": 10,
+      "recognition": 7,
+      "balance": 6,
+      "learning": 8
+    },
+    "requiredDegrees": [
+      "Master's in Social Work (MSW) or Development Studies (TISS, Azim Premji University, IRMA)"
+    ],
+    "entryPathways": [
+      "Fellowships (Teach For India, Gandhi Fellowship, Prime Minister's Rural Development Fellowship)",
+      "Program coordinator roles in philanthropic foundations (Gates Foundation, Tata Trusts, Dasra)",
+      "Founding a grassroots non-profit or section-8 company"
+    ],
+    "entranceExams": [
+      "TISS-NET / CUET PG",
+      "Azim Premji University National Entrance"
+    ],
+    "challenges": [
+      "Constant financial vulnerability dependent on uncertain donor grants and CSR budget cycles",
+      "Emotional fatigue witnessing poverty, injustice, and systemic state corruption first-hand",
+      "Lower financial compensation compared to corporate private sector peers"
+    ],
+    "relatedCareerIds": [
+      "civil_services_officer",
+      "teacher_educator",
+      "environmental_scientist"
+    ],
+    "segments": [
+      "class_11_12",
+      "undergrad",
+      "postgrad"
+    ],
+    "isDirection": false
+  },
+  {
+    "id": "actuary",
+    "name": "Actuary & Risk Specialist",
+    "industry": "Insurance, Pensions & Quantitative Risk",
+    "description": "Uses advanced probability, financial mathematics, and stochastic calculus to price insurance policies, evaluate disaster risk, and ensure solvency.",
+    "vector": {
+      "R": 2,
+      "I": 10,
+      "A": 1,
+      "S": 2,
+      "E": 5,
+      "C": 10,
+      "independent_vs_team": -0.5,
+      "structured_vs_flexible": -1,
+      "practical_vs_conceptual": 0.8,
+      "lead_vs_support": 0.2,
+      "stability": 10,
+      "growth": 8,
+      "independence": 8,
+      "creativity": 2,
+      "impact": 6,
+      "recognition": 9,
+      "balance": 7,
+      "learning": 9
+    },
+    "requiredDegrees": [
+      "B.Sc. / B.Math in Mathematics / Statistics / Actuarial Science",
+      "Fellowship / Associateship of IAI (Institute of Actuaries of India) or IFoA (UK)"
+    ],
+    "entryPathways": [
+      "Clearing ACET (Actuarial Common Entrance Test) and core mathematical exam papers (CS1, CM1)",
+      "Actuarial analyst trainee roles in life insurance, general insurance, and reinsurance firms (Swiss Re, Munich Re)",
+      "Pensions and financial risk consulting (Willis Towers Watson, Mercer, Aon)"
+    ],
+    "entranceExams": [
+      "ACET (IAI)",
+      "IFoA Exam Series"
+    ],
+    "challenges": [
+      "Demanding series of 13-15 rigorous professional examinations often taking 5 to 8 years to fully pass",
+      "Working full-time while studying 20+ hours per week for upcoming exam sessions",
+      "Work is predominantly solitary and heavy on complex statistical modeling with little client interaction"
+    ],
+    "relatedCareerIds": [
+      "data_scientist",
+      "chartered_accountant",
+      "investment_analyst"
+    ],
+    "segments": [
+      "class_11_12",
+      "undergrad",
+      "postgrad"
+    ],
+    "isDirection": false
+  }
+]
